@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Célio Souza ✌🏽
-
+<p> Já vou adiantando que sou maluco por tecnologia! Sou apaixonado por IA e adoro mecher com dados,
+    acho<br/> incrivel como algumas informações podem gerar tantas variaveis, insights e soluções, afinal
+    de contas,<br/> desde muuuuitos anos atrás desde a época da pedra, os dados ja eram gerados e 
+    "analisados/utilizados".</p>
+    
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celio-souza-01aa50267/)
 
 
