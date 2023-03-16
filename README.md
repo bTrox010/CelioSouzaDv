@@ -7,7 +7,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celio-souza-01aa50267/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelioSouzaDv&show_icons=true&theme=tokyonight)
+
 
 
 ### Tecnologias que eu estudo ✍🏽
@@ -24,4 +24,5 @@
 
 <!--
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
+/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelioSouzaDv&show_icons=true&theme=tokyonight)*/
 -->
