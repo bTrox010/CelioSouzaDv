@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Célio Souza ✌🏽
 <p> Já vou adiantando que sou apaixonado por tecnologia! E muuuito curioso, faço questão de saber como tudo <br/> 
-    funciona e tenho um dose relevante de "inconformismo positivo".</p>
+    funciona e tenho uma certa dose de "inconformismo positivo".</p>
     
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celio-souza-01aa50267/)
 
