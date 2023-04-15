@@ -1,7 +1,13 @@
 ### Olá! Eu sou o Célio Souza ✌🏽
-<p> Já vou adiantando que sou apaixonado por tecnologia! E muuuito curioso, faço questão de saber como tudo <br/> 
-    funciona e tenho uma certa dose de "inconformismo positivo".<br/>
-No momento em encontro em situação de transição de carreira. Hoje eu atuo na área da Saúde em um Hospital no setor administrativo (sou Encarregado Administrativo) e nesses 3 anos de serviço desenvolvi algumas habilidades que acredito ser de grande importância em qualquer área de trabalho: - Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); - Gestão de pessoas e equipes; - Trabalho em Equipe. Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha capacidade e não vejo a hora de agregar positivamente na vida das pessoas e na (as) empresas na qual eu trabalhar. No momento estou estudando a linguagem C# com foco em ASP .Net (Para desenvolvimento de API's); Curso de SQL - MySql/PostgreSQL (não relacional); Conhecimento em Python e JavaScript - Funções e Programação Orientada a Objeto.</p>
+<p> <pre>   Já vou adiantando que sou apaixonado por tecnologia! E muuuito curioso, faço questão de saber como tudo funciona <br/>e tenho uma certa dose de "inconformismo positivo".<br/>
+   No momento em encontro em situação de transição de carreira. Hoje eu atuo na área da Saúde em um Hospital no setor <br/>administrativo (sou Encarregado Administrativo) e nesses 3 anos de serviço desenvolvi algumas habilidades <br/>que acredito ser de grande importância em qualquer área de trabalho: <br/> 
+    -    Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); <br/> 
+    -    Gestão de pessoas e equipes; <br/> 
+    -    Trabalho em Equipe. <br/> 
+    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha capacidade <br/>e não vejo a hora de agregar positivamente na vida das pessoas e na (as) empresas na qual eu trabalhar. <br/> 
+   -    No momento estou estudando a linguagem C# com foco em ASP .Net (Para desenvolvimento de API's); <br/> 
+   -    Curso de SQL - MySql/PostgreSQL (não relacional); <br/> 
+   -    Conhecimento em Python e JavaScript - Funções e Programação Orientada a Objeto.</pre> </p>
     
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celio-souza-01aa50267/)
 
