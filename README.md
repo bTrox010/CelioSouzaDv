@@ -4,7 +4,7 @@
     -    Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); <br/> 
     -    Gestão de pessoas e equipes; <br/> 
     -    Trabalho em Equipe. <br/> 
-    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha capacidade <br/>e não vejo a hora de agregar positivamente na vida das pessoas e na (as) empresas na qual eu trabalhar. <br/> 
+    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha capacidade <br/>e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
    -    No momento estou estudando a linguagem C# com foco em ASP .Net (Para desenvolvimento de API's); <br/> 
    -    Curso de SQL - MySql/PostgreSQL (não relacional); <br/> 
    -    Conhecimento em Python e JavaScript - Funções e Programação Orientada a Objeto.</pre> </p>
