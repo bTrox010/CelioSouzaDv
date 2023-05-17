@@ -9,8 +9,10 @@ que acredito ser de grande importância em qualquer área de trabalho:  <br/>
     Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha <br/> 
  capacidade e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
    -    No momento estou estudando a linguagem C# com foco em ASP .Net (Para desenvolvimento de API's); <br/> 
-   -    Curso de SQL - MySql/PostgreSQL (não relacional); <br/> 
-   -    Conhecimento em Python e JavaScript - Funções e Programação Orientada a Objeto.</pre> </p>
+   -    Curso de SQL - MySql/SQLServer; <br/> 
+   -    Conhecimento prático em MongoDB e Azure;
+   -    Conhecimento em Python e JavaScript - Funções e Programação Orientada a Objeto.
+   </pre> </p>
     
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celio-souza-01aa50267/)
 
