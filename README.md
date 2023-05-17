@@ -1,10 +1,13 @@
 ### Olá! Eu sou o Célio Souza ✌🏽
 <p> <pre>   Já vou adiantando que sou apaixonado por tecnologia! E muuuito curioso, faço questão de saber como tudo funciona <br/>e tenho uma certa dose de "inconformismo positivo".<br/>
-   No momento em encontro em situação de transição de carreira. Hoje eu atuo na área da Saúde em um Hospital no setor <br/>administrativo (sou Encarregado Administrativo) e nesses 3 anos de serviço desenvolvi algumas habilidades <br/>que acredito ser de grande importância em qualquer área de trabalho: <br/> 
+   No momento em encontro em situação de transição de carreira. Hoje eu atuo na área da Saúde em um Hospital <br/> 
+no setor administrativo (sou Encarregado Administrativo) e nesses 3 anos de serviço desenvolvi algumas habilidades <br/>
+que acredito ser de grande importância em qualquer área de trabalho:  <br/>
     -    Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); <br/> 
     -    Gestão de pessoas e equipes; <br/> 
     -    Trabalho em Equipe. <br/> 
-    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha capacidade <br/>e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
+    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha <br/> 
+ capacidade e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
    -    No momento estou estudando a linguagem C# com foco em ASP .Net (Para desenvolvimento de API's); <br/> 
    -    Curso de SQL - MySql/PostgreSQL (não relacional); <br/> 
    -    Conhecimento em Python e JavaScript - Funções e Programação Orientada a Objeto.</pre> </p>
@@ -17,15 +20,15 @@
 
 ### Tecnologias que eu estudo ✍🏽
 <div style="display: inline_block"><br/>
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img align="center" alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-       
-            
+    <img align="center" alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img align="center" alt="SQLSERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
 
 <!--
