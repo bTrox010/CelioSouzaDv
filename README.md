@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Célio Souza ✌🏽
-<p> <pre>   Já vou adiantando que sou apaixonado por tecnologia! E muuuito curioso, faço questão de saber como tudo funciona <br/> e tenho uma certa dose de "inconformismo positivo".<br/>
    No momento em encontro em situação de transição de carreira. Hoje eu atuo na área da Saúde em um Hospital <br/> no setor administrativo (sou Encarregado Administrativo) e nesses 3 anos de serviço desenvolvi algumas habilidades <br/> que acredito ser de grande importância em qualquer área de trabalho:  <br/>
     -    Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); <br/> 
     -    Gestão de pessoas e equipes; <br/> 
     -    Trabalho em Equipe. <br/> 
     Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha <br/> capacidade e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
-   -    No momento estou estudando a linguagem C# com foco em ASP .Net (Para desenvolvimento de API's); <br/> 
+   -    No momento estou estudando a linguagem C# com foco em ASPNet (backend); <br/>
+   -    EntityFramework e Dapper; <br/>
    -    Curso de SQL - MySql/SQLServer; <br/> 
-   -    Conhecimento prático em MongoDB e Azure; <br/>
+   -    Conhecimento prático em Azure, AWS e MongoDb; <br/>
    -    Curso de  JavaScript e conhecimento em Pyton.
    </pre> </p>
     
