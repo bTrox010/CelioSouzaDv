@@ -3,11 +3,12 @@
     -    Pensamento objetivo em resolução de problemas (mesmo em situações de pressão); <br/> 
     -    Gestão de pessoas e equipes; <br/> 
     -    Trabalho em Equipe. <br/> 
-    Hoje sou um "iniciante" na área de Tecnologia mas anseio por uma vaga no mercado de trabalho, sei da minha <br/> capacidade e não vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
+    Hoje estou a procura de uma oportunidade na área de Tecnologia e sei da minha capacidade, não <br/> vejo a hora de agregar positivamente na vida das pessoas e empresa na qual eu venha trabalhar. <br/> 
    -    No momento estou estudando a linguagem C# com foco em ASPNet (backend); <br/>
    -    EntityFramework e Dapper; <br/>
    -    Curso de SQL - MySql/SQLServer; <br/> 
    -    Conhecimento prático em Azure, AWS e MongoDb; <br/>
+   -    Conhecimento prático em Linux Server e Windows Server; <br/>
    -    Curso de  JavaScript e conhecimento em Pyton.
    </pre> </p>
     
